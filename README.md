@@ -13,7 +13,7 @@ All the plugins below are best installed with the [Sublime package manager](http
 
 Here are some useful packages that will make your life easier:
 
-Plugin       | Description
+Package      | Description
 ------------ | -------------
 [SublimeLinter](https://sublime.wbond.net/packages/SublimeLinter) | Interactive code linting framework that checks your code on-the-fly.
 [SublimeCodeIntel](https://sublime.wbond.net/packages/SublimeCodeIntel) | Full-featured code intelligence and smart autocomplete engine.

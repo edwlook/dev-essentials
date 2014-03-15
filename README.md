@@ -2,9 +2,9 @@
 
 ### [Sublime Text 2](http://www.sublimetext.com/2)
 
-All the plugins below are best installed with the [Sublime package manager](https://sublime.wbond.net/installation#st2).
+All the packages below are best installed with the [Sublime package manager](https://sublime.wbond.net/installation#st2).
 
-##### How to install plugins:
+##### How to install packages:
 1) Open up the Command Palette with `cmd+shift+p` on Mac or `ctrl+shift+p` on Linux/Windows.
 
 2) Enter `install` and press enter on `Package Control: Install Package`.

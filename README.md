@@ -4,6 +4,15 @@
 
 All the plugins below are best installed with the [Sublime package manager](https://sublime.wbond.net/installation#st2).
 
+##### How to install plugins:
+1) Open up the Command Palette with `cmd+shift+p` on Mac or `ctrl+shift+p` on Linux/Windows.
+
+2) Enter `install` and press enter on `Package Control: Install Package`.
+
+3) You can now freely search and install packages you want.
+
+Here are some useful packages that will make your life easier:
+
 Plugin       | Description
 ------------ | -------------
 [SublimeLinter](https://sublime.wbond.net/packages/SublimeLinter) | Interactive code linting framework that checks your code on-the-fly.

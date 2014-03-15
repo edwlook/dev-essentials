@@ -24,4 +24,4 @@ Package      | Description
 [SideBarEnhancements](https://sublime.wbond.net/packages/SideBarEnhancements) | Adds many features to the sidebar, such duplicating and copying file paths.
 [DocBlockr](https://sublime.wbond.net/packages/DocBlockr) | Simplifies writing DocBlock comments and makes writing documentation a breeze.
 [GitGutter](https://sublime.wbond.net/packages/GitGutter) | Shows an icon in the gutter area if a line has been inserted, modified, or deleted.
-[Markdown Preview](Markdown Preview) | Preview and build your markdown files quickly in your web browser from Sublime.
+[Markdown Preview](https://sublime.wbond.net/packages/Markdown%20Preview) | Preview and build your markdown files quickly in your web browser from Sublime.
